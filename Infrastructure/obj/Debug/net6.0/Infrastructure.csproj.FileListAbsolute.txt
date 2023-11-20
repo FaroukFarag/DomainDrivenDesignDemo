@@ -1,0 +1,17 @@
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\bin\Debug\net6.0\Application.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\bin\Debug\net6.0\Application.pdb
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
