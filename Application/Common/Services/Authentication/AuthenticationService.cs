@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Services.Authentication
+namespace Application.Common.Services.Authentication
 {
     public class AuthenticationService : IAuthenticationService
     {

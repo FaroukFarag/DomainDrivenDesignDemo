@@ -1,4 +1,4 @@
-﻿using Application.Services.Authentication;
+﻿using Application.Common.Services.Authentication;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;

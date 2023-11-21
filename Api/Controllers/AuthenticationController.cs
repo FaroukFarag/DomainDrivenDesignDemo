@@ -1,4 +1,4 @@
-﻿using Application.Services.Authentication;
+﻿using Application.Common.Services.Authentication;
 using Contracts.Authentication;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
