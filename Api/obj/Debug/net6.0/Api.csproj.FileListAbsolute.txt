@@ -38,3 +38,4 @@ D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Applicati
 D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Contracts.pdb
 D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Infrastructure.pdb
 D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Domain.pdb
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

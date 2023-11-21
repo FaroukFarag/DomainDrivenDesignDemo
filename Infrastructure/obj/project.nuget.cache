@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MCTijJLv8yjDTwHCOzyKol07iiIjY2hpPaG/TbD/kVdVq6wlN4YJMLbT1jBJU823dEpxjBQWOg3auPQQE9Xkuw==",
+  "dgSpecHash": "JGJbupgmTMU1gCr5yWaGWOumQLklNMb0dx2qU4S9JKVDvSAnAsR9JddMWkA76viSlzC6leVqdVUcXbSDp9sXfg==",
   "success": true,
   "projectFilePath": "D:\\Practices\\DDD - Youtube\\DomainDrivenDesignDemo\\Infrastructure\\Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\FaroukFarag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

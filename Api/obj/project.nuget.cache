@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zmVOU31SqiMJQeUlGuY+idkF7EUFvUhSfXR3yOi4Z+sBjkKh/DCJDkac2103o1fDp5YUHZ6IrsBNGkMHf8QvEg==",
+  "dgSpecHash": "Ai5GTid0xd1rmnTjdwVim8NB0qzoTsnIypL4CSjrZlPQubIe/eoMPF7ws682TFIwyQacT8mLPqL/NHuypLpc5g==",
   "success": true,
   "projectFilePath": "D:\\Practices\\DDD - Youtube\\DomainDrivenDesignDemo\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FaroukFarag\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\FaroukFarag\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\FaroukFarag\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\FaroukFarag\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\FaroukFarag\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
