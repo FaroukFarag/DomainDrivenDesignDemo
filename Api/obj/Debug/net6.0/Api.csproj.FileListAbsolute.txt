@@ -39,3 +39,14 @@ D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Contracts
 D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Infrastructure.pdb
 D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Domain.pdb
 D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
