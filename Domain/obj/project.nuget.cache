@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GZLWSIakPAbdbGvlXcaoLhupxVdbqhh2fd+TVpe+j9gPJS1kf1UPl9yoG6ac7Y3dJaEmBSLMQDQWfdBrj8wcgQ==",
+  "dgSpecHash": "BEY3eJmLxKPAhNcMlrhCg1TygA3foy/1g7h5BLdOUvFLezi574iV2gtrL2i9reHcgEVp2XSRj3Uxl/oEI5AJTg==",
   "success": true,
-  "projectFilePath": "D:\\Practices\\DDD - Youtube\\DomainDrivenDesignDemo\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Practices\\Domain Driven Design\\Youtube - Amichai Mantinband\\DomainDrivenDesignDemo\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -9,3 +9,14 @@ D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Contracts\obj\Debug\net6.0\Con
 D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Contracts\obj\Debug\net6.0\refint\Contracts.dll
 D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Contracts\obj\Debug\net6.0\Contracts.pdb
 D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Contracts\obj\Debug\net6.0\ref\Contracts.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Contracts\bin\Debug\net6.0\Contracts.deps.json
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Contracts\bin\Debug\net6.0\Contracts.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Contracts\bin\Debug\net6.0\Contracts.pdb
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Contracts\obj\Debug\net6.0\Contracts.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Contracts\obj\Debug\net6.0\Contracts.pdb
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Contracts\obj\Debug\net6.0\ref\Contracts.dll

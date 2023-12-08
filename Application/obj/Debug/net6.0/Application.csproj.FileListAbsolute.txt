@@ -13,3 +13,18 @@ D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Application\bin\Debug\net6.0\D
 D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Application\bin\Debug\net6.0\Domain.pdb
 D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
 D:\Practices\DDD - Youtube\DomainDrivenDesignDemo\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\bin\Debug\net6.0\Application.deps.json
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\bin\Debug\net6.0\Application.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\bin\Debug\net6.0\Application.pdb
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\bin\Debug\net6.0\Domain.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\bin\Debug\net6.0\Domain.pdb
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\obj\Debug\net6.0\Application.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\obj\Debug\net6.0\refint\Application.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\obj\Debug\net6.0\Application.pdb
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Application\obj\Debug\net6.0\ref\Application.dll

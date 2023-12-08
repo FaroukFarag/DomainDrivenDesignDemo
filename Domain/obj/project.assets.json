@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\FaroukFarag\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\TECHSHOP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Practices\\DDD - Youtube\\DomainDrivenDesignDemo\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Practices\\Domain Driven Design\\Youtube - Amichai Mantinband\\DomainDrivenDesignDemo\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Practices\\DDD - Youtube\\DomainDrivenDesignDemo\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\FaroukFarag\\.nuget\\packages\\",
-      "outputPath": "D:\\Practices\\DDD - Youtube\\DomainDrivenDesignDemo\\Domain\\obj\\",
+      "projectPath": "D:\\Practices\\Domain Driven Design\\Youtube - Amichai Mantinband\\DomainDrivenDesignDemo\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\TECHSHOP\\.nuget\\packages\\",
+      "outputPath": "D:\\Practices\\Domain Driven Design\\Youtube - Amichai Mantinband\\DomainDrivenDesignDemo\\Domain\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\FaroukFarag\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\TECHSHOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

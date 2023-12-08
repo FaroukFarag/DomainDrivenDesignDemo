@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Infrastructure",
+    "\\Infrastructure\\Authentication"
+  ],
+  "SelectedNode": "\\Infrastructure\\Authentication\\JwtTokenGenerator.cs",
+  "PreviewInSolutionExplorer": false
+}
