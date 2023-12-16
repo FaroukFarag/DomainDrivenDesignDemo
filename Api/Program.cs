@@ -1,4 +1,4 @@
-using Api.Errors;
+using Api.Common.Errors;
 using Api.Filters;
 using Application;
 using Infrastructure;

@@ -17,7 +17,7 @@ namespace Api.Controllers
         }
 
         [HttpPost("Register")]
-        public IActionResult Resister(RegisterRequest registerRequest)
+        public IActionResult Register(RegisterRequest registerRequest)
         {
             var authenticationResult = _authenticationService.Register(
                 registerRequest.FirstName,
