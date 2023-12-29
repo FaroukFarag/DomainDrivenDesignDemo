@@ -6,11 +6,11 @@ using Contracts.Authentication;
 using Domain.Common.Errors;
 using ErrorOr;
 using FluentResults;
+using MapsterMapper;
 using MediatR;
 using Microsoft.AspNetCore.Hosting.Server;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Win32;
 
 namespace Api.Controllers
 {
@@ -18,16 +18,29 @@ namespace Api.Controllers
     public class AuthenticationController : ApiController
     {
         private readonly ISender _sender;
-
-        public AuthenticationController(ISender sender)
+        private readonly IMapper _mapper;
+        public AuthenticationController(ISender sender, IMapper mapper)
         {
             _sender = sender;
+            _mapper = mapper;
+        }
+
+        [HttpPost("Register")]
+        public async Task<IActionResult> Register(RegisterRequest registerRequest)
+        {
+            var command = _mapper.Map<RegisterCommand>(registerRequest);
+
+            ErrorOr<AuthenticationResult> registerResult = await _sender.Send(command);
+
+            return registerResult.Match(
+                registerResult => Ok(_mapper.Map<AuthenticationResponse>(registerResult)),
+                errors => Problem(errors));
         }
 
         [HttpPost("Login")]
         public async Task<IActionResult> Login(LoginRequest loginRequest)
         {
-            var query = new LoginQuery(loginRequest.Email, loginRequest.Password);
+            var query = _mapper.Map<LoginQuery>(loginRequest);
             var authenticationResult = await _sender.Send(query);
 
             if (authenticationResult.IsError && authenticationResult.FirstError == Errors.Authentication.InvalidCredentials)
@@ -36,34 +49,8 @@ namespace Api.Controllers
                     title: authenticationResult.FirstError.Description);
 
             return authenticationResult.Match(
-                authenticationResult => Ok(MapAuthenticationResult(authenticationResult)),
+                authenticationResult => Ok(_mapper.Map<AuthenticationResponse>(authenticationResult)),
                 errors => Problem(errors));
-        }
-
-        [HttpPost("Register")]
-        public async Task<IActionResult> Register(RegisterRequest registerRequest)
-        {
-            var command = new RegisterCommand(
-                registerRequest.FirstName,
-                registerRequest.LastName,
-                registerRequest.Email,
-                registerRequest.Password);
-
-            ErrorOr<AuthenticationResult> registerResult = await _sender.Send(command);
-
-            return registerResult.Match(
-                registerResult => Ok(MapAuthenticationResult(registerResult)),
-                errors => Problem(errors));
-        }
-
-        private static AuthenticationResponse MapAuthenticationResult(AuthenticationResult authenticationResult)
-        {
-            return new AuthenticationResponse(
-                            authenticationResult.User.Id,
-                            authenticationResult.User.FirstName,
-                            authenticationResult.User.LastName,
-                            authenticationResult.User.Email,
-                            authenticationResult.Token);
         }
     }
 }

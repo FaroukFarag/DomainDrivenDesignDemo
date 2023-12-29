@@ -1,3 +1,4 @@
+using Api;
 using Api.Common.Errors;
 using Api.Filters;
 using Application;
@@ -7,16 +8,11 @@ using Microsoft.AspNetCore.Mvc.Infrastructure;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.RegisterApplication();
-builder.Services.RegisterInfrastructure(builder.Configuration);
+builder.Services
+    .RegisterPresentation()
+    .RegisterApplication()
+    .RegisterInfrastructure(builder.Configuration);
 
-//builder.Services.AddControllers(options => options.Filters.Add<ErrorHandlingFilterAttribute>());
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-builder.Services.AddSingleton<ProblemDetailsFactory, CustomProblemDetailsFactory>();
 
 var app = builder.Build();
 
