@@ -1,4 +1,6 @@
 ﻿using System.Diagnostics;
+using Api.Common.Http;
+using ErrorOr;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Infrastructure;
@@ -64,7 +66,6 @@ public class CustomProblemDetailsFactory : ProblemDetailsFactory
 
         if (title != null)
         {
-            // For validation problem details, don't overwrite the default title with null.
             problemDetails.Title = title;
         }
 
@@ -88,5 +89,11 @@ public class CustomProblemDetailsFactory : ProblemDetailsFactory
         {
             problemDetails.Extensions["traceId"] = traceId;
         }
+
+        var errors = httpContext?.Items[
+            HttpContextItemKeys.Errors] as List<Error>;
+
+        if (errors is not null)
+            problemDetails.Extensions.Add("errorCodes", errors.Select(e => e.Code));
     }
 }

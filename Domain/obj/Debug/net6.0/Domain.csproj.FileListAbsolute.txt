@@ -20,3 +20,4 @@ D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesig
 D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Domain\obj\Debug\net6.0\refint\Domain.dll
 D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Domain\obj\Debug\net6.0\Domain.pdb
 D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache

@@ -102,3 +102,8 @@ D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesig
 D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\obj\Debug\net6.0\Api.pdb
 D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
 D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\obj\Debug\net6.0\ref\Api.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\FluentResults.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\ErrorOr.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\MediatR.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\MediatR.Contracts.dll
