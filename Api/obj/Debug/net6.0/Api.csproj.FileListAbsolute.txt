@@ -110,3 +110,6 @@ D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesig
 D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Mapster.dll
 D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Mapster.Core.dll
 D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\Mapster.DependencyInjection.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\FluentValidation.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Practices\Domain Driven Design\Youtube - Amichai Mantinband\DomainDrivenDesignDemo\Api\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
